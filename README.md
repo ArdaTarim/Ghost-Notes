@@ -1,5 +1,5 @@
 # Ghost Notes
  ghost notes app, created with python
 
- Sometimes I have to write something and I want my sources to stay on top of my screen
- Adjustable opacity setting 
+ Sometimes you need to write something and want your sources to stay on top of the screen.
+ Has adjustable opacity setting 
